@@ -1,0 +1,23 @@
+{
+    "name": "connexion",
+    "version": "1.0.0",
+    "private": false,
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": {
+        "name": "Dinesh"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.14.0",
+        "@emotion/styled": "^11.14.0",
+        "@mui/icons-material": "^6.4.8",
+        "@mui/material": "^6.4.8",
+        "express": "^4.21.2",
+        "ws": "^8.18.1"
+    },
+    "devDependencies": {
+        "electron": "^35.0.3"
+    }
+}
